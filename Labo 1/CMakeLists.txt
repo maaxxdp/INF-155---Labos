@@ -12,4 +12,4 @@ add_executable(Labo_1 question1.c
         question7.c
         question8.c
         question9.c
-        question10.cpp)
+        "question 10.c")
