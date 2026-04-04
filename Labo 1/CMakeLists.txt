@@ -3,7 +3,8 @@ project(Labo_1 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Labo_1 question1.c
+add_executable(Labo_1
+        question1.c
         question2.c
         question3.c
         question4.c
